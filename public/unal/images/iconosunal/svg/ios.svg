@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9.0311108mm"
+   height="9.0311108mm"
+   viewBox="0 0 31.999999 31.999999"
+   id="svg6545"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ios.svg"
+   inkscape:export-filename="C:\Users\Unimedios\Documents\pagina-web\iconos-servicios\ios.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs6547" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-168.5"
+     inkscape:cy="15.999999"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata6550">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-192.57143,-1462.0765)">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 224.07143,1478.0765 c 0,8.5604 -6.9396,15.5 -15.5,15.5 -8.5604,0 -15.5,-6.9396 -15.5,-15.5 0,-8.5605 6.9396,-15.5 15.5,-15.5 8.5604,0 15.5,6.9395 15.5,15.5 z"
+       id="path8408"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Unimedios\Documents\solicitudes\mailings\v2\pie-unimedios.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 207.52176,1468.4236 c -0.84372,0.058 -1.82665,0.6117 -2.40459,1.333 -0.52312,0.6541 -0.95341,1.6242 -0.78466,2.5648 l 0.0674,0 c 0.89856,0 1.81824,-0.5567 2.35401,-1.2696 0.51888,-0.6793 0.91118,-1.641 0.76775,-2.6282 z m 0.31218,3.7925 c -1.41744,0 -2.01644,0.6961 -3.00359,0.6961 -1.01247,0 -1.78448,-0.6919 -3.01209,-0.6919 -1.2023,0 -2.48473,0.7552 -3.29891,2.0419 -1.14325,1.8138 -0.94925,5.2309 0.90272,8.1418 0.6623,1.042 1.54827,2.2106 2.70837,2.2232 l 0.0211,0 c 1.00824,0 1.30778,-0.6792 2.69568,-0.6877 l 0.0211,0 c 1.36683,0 1.64101,0.6836 2.64504,0.6836 l 0.0211,0 c 1.16013,-0.012 2.09247,-1.3078 2.75477,-2.3457 0.4767,-0.7466 0.65386,-1.122 1.02088,-1.9659 -2.67881,-1.0461 -3.10912,-4.9525 -0.45984,-6.4502 -0.80996,-1.042 -1.94478,-1.6452 -3.01629,-1.6452 z"
+       id="path8482"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Unimedios\Documents\solicitudes\mailings\v2\pie-unimedios.png"
+       style="fill:none;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 215.07143,1480.5765 2,1.9999 2,-2"
+       id="path8784"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 217.07143,1475.5764 0,6"
+       id="path8786"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Unimedios\Documents\solicitudes\mailings\v2\pie-unimedios.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
